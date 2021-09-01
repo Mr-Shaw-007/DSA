@@ -13,6 +13,7 @@ double taylor(int x, int n){// x is the power of e(e^x) and n is numer of elemet
 
 }
 
+
 int main(){
     
     cout<<taylor(1,10)<<endl;
