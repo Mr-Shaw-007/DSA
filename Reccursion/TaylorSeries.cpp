@@ -22,3 +22,6 @@ int main(){
 } 
 
 // Result of taylor series is value of e^x if x=1 , e^1 is the value
+// Number of Multiplication required= n(n+1)
+
+// It is order of O(n^2)
