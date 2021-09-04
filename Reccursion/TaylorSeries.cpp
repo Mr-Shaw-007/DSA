@@ -25,3 +25,6 @@ int main(){
 // Number of Multiplication required= n(n+1)
 
 // It is order of O(n^2)
+
+
+
